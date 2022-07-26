@@ -1,17 +1,12 @@
 using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine;
-
 using UnityEngine.SceneManagement;
-
 public class playermovement : MonoBehaviour
 
 {
 
     public float moveSpeed = 5f;
-    //public Animator animator;
 
     public float currentspeed;
 
